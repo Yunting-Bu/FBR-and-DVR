@@ -1,5 +1,5 @@
 更正：
-我们知道FBR——>DVR的本质其实就是一个表象变换，FBR的基组为sinc函数，DVR基组为格点$|x_l\rangle$，因此
+我们知道FBR——>DVR的本质其实就是一个表象变换，FBR的基组为sinc函数，DVR基组为格点$`|x_l\rangle`$，因此
 $$
 |\Psi_i\rangle=\sum_nc_{nl}|\phi_n\rangle=\sum_{nl}c_{nl}|x_l\rangle\langle|x_l|\phi_n\rangle=\sum_{nl}B_{ln}|x_l\rangle=\sum_l c_{ln}^'|x_l\rangle
 $$
