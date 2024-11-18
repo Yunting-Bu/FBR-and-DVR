@@ -5,6 +5,6 @@
 ```
 因此对DVR波函数作图时，不能只对$`\tilde{c}_{ln}`$作图，而要除以$`\sqrt{w_l}`$，因为
 ```math
-\tilde{c}_{ln}=\langle x_l|\Psi_{n}\rangle=\sqrt{w_l}\Psi_{n}(x_l)
+\tilde{c}_{ln}=c_{nl}\langle x_l|\Psi_{n}\rangle=\sqrt{w_l}\Psi_{n}(x_l)
 ```
 这一步用了高斯积分，我作图时并未进行此步操作，特此更正！
